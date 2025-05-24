@@ -1,6 +1,6 @@
 # Hey there 👋
 
-![Hello World](https://raw.githubusercontent.com/TG404-JV/TG404-JV/master/resources/banner.png)
+![Hello World](https://raw.githubusercontent.com/TG404-JV/TG404-JV/master/banner.png)
 
 <p align="center"> 
   Visitor count<br>
