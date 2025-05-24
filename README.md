@@ -20,5 +20,4 @@ Hi! I’m Tejas Kale, a passionate Android Developer with a knack for building u
 ## Get in Touch ☕
 - **Email**: [cse.tejas@gmail.com](mailto:cse.tejas@gmail.com)
 - **GitHub**: [github.com/TG404-JV](https://github.com/TG404-JV)
-- **LinkedIn**: [https://www.linkedin.com/in/tejas-kale-65419a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#) (Update with your LinkedIn link)
-- **Medium**: [medium.com/@tejas_kale](#) (Update with your Medium link)
+- **LinkedIn**: [https://www.linkedin.com/in/tejas-kale-65419a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
