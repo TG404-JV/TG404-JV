@@ -1,6 +1,18 @@
 # Tejas Kale | Android Developer & AI Integration Specialist
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/TG404-JV/TG404-JV/master/banner.png" alt="Tejas Kale - Android Developer" width="100%" />
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Android+Developer;AI+Integration+Expert;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  </p>
+  
+  <p>
+    <img src="https://profile-counter.glitch.me/TG404-JV/count.svg" alt="Visitor Count" />
+  </p>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;AI+%26+Machine+Learning+Enthusiast;Published+App+Developer;Open+Source+Contributor" alt="Professional Title Animation" />
 </div>
 
