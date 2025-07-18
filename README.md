@@ -8,7 +8,6 @@
   </p>
   
   <p>
-    <img src="https://profile-counter.glitch.me/TG404-JV/count.svg" alt="Visitor Count" />
   </p>
 </div>
 
@@ -230,6 +229,5 @@ I'm passionate about leveraging technology to solve real-world problems, particu
 
 ⭐ **Building the future of mobile technology, one app at a time!** ⭐
 
-<img src="https://profile-counter.glitch.me/TG404-JV/count.svg" alt="Profile Views" />
 
 </div>
